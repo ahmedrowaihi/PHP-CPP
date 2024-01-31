@@ -17,7 +17,7 @@
 #   installed in the default directory, you can change that here.
 #
 
-PHP_CONFIG			=	/opt/lampp/bin/php-config
+PHP_CONFIG			=	php-config82
 UNAME 				:= 	$(shell uname)
 
 #
